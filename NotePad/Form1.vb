@@ -24,7 +24,7 @@ Public Class Form1
             'FILTER files as type .txt, .doc,.xls,.ppt
             OpenFileDialog1.Filter = "Text Documents|*.txt|Web Documents|*.html|CSS|*.css|All Files|*.*"
 
-            OpenFileDialog1.Title = "WISDOM NOTEPAD IS OPENING..."
+            OpenFileDialog1.Title = "NOTEPAD IS OPENING..."
             If (OpenFileDialog1.ShowDialog = Windows.Forms.DialogResult.OK) Then
                 'READ FILE
                 RichTextBox1.Text = File.ReadAllText(OpenFileDialog1.FileName)
@@ -48,19 +48,19 @@ Public Class Form1
                 'FILTER files as type .txt, .doc,.xls,.py
                 saveFile.Filter = "Text Documents|*.txt|Web Documents|*.html|CSS|*.css| Python| *.py|All Files|*.*"
 
-                saveFile.Title = "WISDOM-NOTEPAD SAVE TO..."
+                saveFile.Title = "SANDEEP-NOTEPAD SAVE TO..."
                 saveFile.ShowDialog()
 
 
 
                 'CREATE A SAVE FILE
                 File.WriteAllText(saveFile.FileName, RichTextBox1.Text)
-                Me.Text = saveFile.FileName.ToString & " - " & "WISDOM NOTEPAD"
+                Me.Text = saveFile.FileName.ToString & " - " & "SANDEEP NOTEPAD"
             Else
-                MsgBox("Content of wisdom-notepad is empty" & Environment.NewLine & "Therefore can't activate save dialog")
+                MsgBox("Content of notepad is empty" & Environment.NewLine & "Therefore can't activate save dialog")
             End If
         Catch ex As Exception
-            MsgBox("WISDOM NOTEPAD " & Environment.NewLine & ex.Message())
+            MsgBox("SANDEEP NOTEPAD " & Environment.NewLine & ex.Message())
         End Try
     End Sub
     Private Sub CloseToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles CloseToolStripMenuItem.Click
@@ -133,7 +133,7 @@ Public Class Form1
                 MsgBox(ex.ToString())
             End Try
         Else
-            MsgBox("Content of wisdom-notepad is empty" & Environment.NewLine & "Therefore can't activate print dialog")
+            MsgBox("Content of sandeep-notepad is empty" & Environment.NewLine & "Therefore can't activate print dialog")
         End If
 
     End Sub

@@ -35,9 +35,10 @@ Partial Class frmWhatNotepad
         '
         'btnGotIt
         '
-        Me.btnGotIt.Location = New System.Drawing.Point(222, 144)
+        Me.btnGotIt.Location = New System.Drawing.Point(296, 177)
+        Me.btnGotIt.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.btnGotIt.Name = "btnGotIt"
-        Me.btnGotIt.Size = New System.Drawing.Size(111, 48)
+        Me.btnGotIt.Size = New System.Drawing.Size(148, 59)
         Me.btnGotIt.TabIndex = 4
         Me.btnGotIt.Text = "Got it"
         Me.btnGotIt.UseVisualStyleBackColor = True
@@ -46,19 +47,21 @@ Partial Class frmWhatNotepad
         '
         Me.Label1.AutoSize = True
         Me.Label1.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label1.Location = New System.Drawing.Point(14, 39)
+        Me.Label1.Location = New System.Drawing.Point(19, 48)
+        Me.Label1.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(177, 16)
+        Me.Label1.Size = New System.Drawing.Size(223, 20)
         Me.Label1.TabIndex = 5
-        Me.Label1.Text = "Wisdom Notepad is a basic "
+        Me.Label1.Text = "Sandeep Notepad is a basic "
         '
         'Label2
         '
         Me.Label2.AutoSize = True
         Me.Label2.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label2.Location = New System.Drawing.Point(183, 39)
+        Me.Label2.Location = New System.Drawing.Point(244, 48)
+        Me.Label2.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(174, 16)
+        Me.Label2.Size = New System.Drawing.Size(222, 20)
         Me.Label2.TabIndex = 5
         Me.Label2.Text = "text-editing program and it's "
         '
@@ -66,9 +69,10 @@ Partial Class frmWhatNotepad
         '
         Me.Label3.AutoSize = True
         Me.Label3.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label3.Location = New System.Drawing.Point(14, 66)
+        Me.Label3.Location = New System.Drawing.Point(19, 81)
+        Me.Label3.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(197, 16)
+        Me.Label3.Size = New System.Drawing.Size(250, 20)
         Me.Label3.TabIndex = 5
         Me.Label3.Text = "most commonly used to view or "
         '
@@ -76,9 +80,10 @@ Partial Class frmWhatNotepad
         '
         Me.Label4.AutoSize = True
         Me.Label4.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label4.Location = New System.Drawing.Point(203, 66)
+        Me.Label4.Location = New System.Drawing.Point(271, 81)
+        Me.Label4.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(154, 16)
+        Me.Label4.Size = New System.Drawing.Size(206, 20)
         Me.Label4.TabIndex = 5
         Me.Label4.Text = "edit text files. A text file is "
         '
@@ -86,9 +91,10 @@ Partial Class frmWhatNotepad
         '
         Me.Label5.AutoSize = True
         Me.Label5.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label5.Location = New System.Drawing.Point(14, 92)
+        Me.Label5.Location = New System.Drawing.Point(19, 113)
+        Me.Label5.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label5.Name = "Label5"
-        Me.Label5.Size = New System.Drawing.Size(120, 16)
+        Me.Label5.Size = New System.Drawing.Size(151, 20)
         Me.Label5.TabIndex = 5
         Me.Label5.Text = "a file type typically "
         '
@@ -96,9 +102,10 @@ Partial Class frmWhatNotepad
         '
         Me.Label6.AutoSize = True
         Me.Label6.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label6.Location = New System.Drawing.Point(210, 92)
+        Me.Label6.Location = New System.Drawing.Point(280, 113)
+        Me.Label6.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label6.Name = "Label6"
-        Me.Label6.Size = New System.Drawing.Size(46, 16)
+        Me.Label6.Size = New System.Drawing.Size(63, 20)
         Me.Label6.TabIndex = 6
         Me.Label6.Text = ".txt file "
         '
@@ -106,9 +113,10 @@ Partial Class frmWhatNotepad
         '
         Me.Label8.AutoSize = True
         Me.Label8.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label8.Location = New System.Drawing.Point(252, 92)
+        Me.Label8.Location = New System.Drawing.Point(336, 113)
+        Me.Label8.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label8.Name = "Label8"
-        Me.Label8.Size = New System.Drawing.Size(105, 16)
+        Me.Label8.Size = New System.Drawing.Size(130, 20)
         Me.Label8.TabIndex = 6
         Me.Label8.Text = "name extension."
         '
@@ -116,17 +124,18 @@ Partial Class frmWhatNotepad
         '
         Me.Label9.AutoSize = True
         Me.Label9.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label9.Location = New System.Drawing.Point(129, 92)
+        Me.Label9.Location = New System.Drawing.Point(172, 113)
+        Me.Label9.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label9.Name = "Label9"
-        Me.Label9.Size = New System.Drawing.Size(101, 16)
+        Me.Label9.Size = New System.Drawing.Size(126, 20)
         Me.Label9.TabIndex = 6
         Me.Label9.Text = "identified by the"
         '
         'frmWhatNotepad
         '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(372, 237)
+        Me.ClientSize = New System.Drawing.Size(496, 292)
         Me.Controls.Add(Me.Label9)
         Me.Controls.Add(Me.Label8)
         Me.Controls.Add(Me.Label6)
@@ -136,6 +145,7 @@ Partial Class frmWhatNotepad
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.btnGotIt)
+        Me.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.Name = "frmWhatNotepad"
         Me.Text = "About Wisdom Notepad"
         Me.ResumeLayout(False)
