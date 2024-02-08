@@ -1,0 +1,84 @@
+C:\Users\10-12\Documents\VBnet\NotePad\NotePad\bin\Debug\NotePad.exe.config
+C:\Users\10-12\Documents\VBnet\NotePad\NotePad\bin\Debug\NotePad.exe
+C:\Users\10-12\Documents\VBnet\NotePad\NotePad\bin\Debug\NotePad.pdb
+C:\Users\10-12\Documents\VBnet\NotePad\NotePad\bin\Debug\NotePad.xml
+C:\Users\10-12\Documents\VBnet\NotePad\NotePad\obj\Debug\NotePad.Form1.resources
+C:\Users\10-12\Documents\VBnet\NotePad\NotePad\obj\Debug\NotePad.Resources.resources
+C:\Users\10-12\Documents\VBnet\NotePad\NotePad\obj\Debug\NotePad.vbproj.GenerateResource.Cache
+C:\Users\10-12\Documents\VBnet\NotePad\NotePad\obj\Debug\NotePad.exe
+C:\Users\10-12\Documents\VBnet\NotePad\NotePad\obj\Debug\NotePad.xml
+C:\Users\10-12\Documents\VBnet\NotePad\NotePad\obj\Debug\NotePad.pdb
+C:\Users\10-12\Documents\VBnet\NotePad\NotePad\obj\Debug\NotePad.frmAbout.resources
+C:\Users\10-12\Documents\VBnet\NotePad\NotePad\obj\Debug\NotePad.frmHelp.resources
+C:\Users\10-12\Documents\VBnet\NotePad\NotePad\obj\Debug\NotePad.frmTheFont.resources
+C:\Users\10-12\Documents\VBnet\NotePad\NotePad\obj\Debug\NotePad.frmCutCopyPaste.resources
+C:\Users\10-12\Documents\VBnet\NotePad\NotePad\obj\Debug\NotePad.frmdateTime.resources
+C:\Users\10-12\Documents\VBnet\NotePad\NotePad\obj\Debug\NotePad.frmWhatNotepad.resources
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\WISDOM APPLICATIONS\WISDOM _APPS\NotePad\NotePad\bin\Debug\NotePad.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\WISDOM APPLICATIONS\WISDOM _APPS\NotePad\NotePad\obj\Debug\NotePad.exe
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\WISDOM APPLICATIONS\WISDOM _APPS\NotePad\NotePad\obj\Debug\NotePad.xml
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\WISDOM APPLICATIONS\WISDOM _APPS\NotePad\NotePad\obj\Debug\NotePad.pdb
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\WISDOM APPLICATIONS\WISDOM _APPS\NotePad\NotePad\bin\Debug\NotePad.exe
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\WISDOM APPLICATIONS\WISDOM _APPS\NotePad\NotePad\bin\Debug\NotePad.pdb
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\WISDOM APPLICATIONS\WISDOM _APPS\NotePad\NotePad\bin\Debug\NotePad.xml
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\WISDOM APPLICATIONS\WISDOM _APPS\NotePad\NotePad\obj\Debug\NotePad.frmAbout.resources
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\WISDOM APPLICATIONS\WISDOM _APPS\NotePad\NotePad\obj\Debug\NotePad.frmCutCopyPaste.resources
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\WISDOM APPLICATIONS\WISDOM _APPS\NotePad\NotePad\obj\Debug\NotePad.frmdateTime.resources
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\WISDOM APPLICATIONS\WISDOM _APPS\NotePad\NotePad\obj\Debug\NotePad.Form1.resources
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\WISDOM APPLICATIONS\WISDOM _APPS\NotePad\NotePad\obj\Debug\NotePad.frmHelp.resources
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\WISDOM APPLICATIONS\WISDOM _APPS\NotePad\NotePad\obj\Debug\NotePad.Resources.resources
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\WISDOM APPLICATIONS\WISDOM _APPS\NotePad\NotePad\obj\Debug\NotePad.frmTheFont.resources
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\WISDOM APPLICATIONS\WISDOM _APPS\NotePad\NotePad\obj\Debug\NotePad.frmWhatNotepad.resources
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\WISDOM APPLICATIONS\WISDOM _APPS\NotePad\NotePad\obj\Debug\NotePad.vbproj.GenerateResource.Cache
+C:\Users\Onana Vicky\Desktop\WISDOM\Folders\folder_Collections\VBnetApps\WISDOM APPLICATIONS\WISDOM _APPS\NotePad\NotePad\bin\Debug\NotePad.exe.config
+C:\Users\Onana Vicky\Desktop\WISDOM\Folders\folder_Collections\VBnetApps\WISDOM APPLICATIONS\WISDOM _APPS\NotePad\NotePad\obj\Debug\NotePad.exe
+C:\Users\Onana Vicky\Desktop\WISDOM\Folders\folder_Collections\VBnetApps\WISDOM APPLICATIONS\WISDOM _APPS\NotePad\NotePad\obj\Debug\NotePad.xml
+C:\Users\Onana Vicky\Desktop\WISDOM\Folders\folder_Collections\VBnetApps\WISDOM APPLICATIONS\WISDOM _APPS\NotePad\NotePad\obj\Debug\NotePad.pdb
+C:\Users\Onana Vicky\Desktop\WISDOM\Folders\folder_Collections\VBnetApps\WISDOM APPLICATIONS\WISDOM _APPS\NotePad\NotePad\bin\Debug\NotePad.exe
+C:\Users\Onana Vicky\Desktop\WISDOM\Folders\folder_Collections\VBnetApps\WISDOM APPLICATIONS\WISDOM _APPS\NotePad\NotePad\bin\Debug\NotePad.pdb
+C:\Users\Onana Vicky\Desktop\WISDOM\Folders\folder_Collections\VBnetApps\WISDOM APPLICATIONS\WISDOM _APPS\NotePad\NotePad\bin\Debug\NotePad.xml
+C:\Users\Onana Vicky\Desktop\WISDOM\Folders\folder_Collections\VBnetApps\WISDOM APPLICATIONS\WISDOM _APPS\NotePad\NotePad\obj\Debug\NotePad.frmAbout.resources
+C:\Users\Onana Vicky\Desktop\WISDOM\Folders\folder_Collections\VBnetApps\WISDOM APPLICATIONS\WISDOM _APPS\NotePad\NotePad\obj\Debug\NotePad.frmCutCopyPaste.resources
+C:\Users\Onana Vicky\Desktop\WISDOM\Folders\folder_Collections\VBnetApps\WISDOM APPLICATIONS\WISDOM _APPS\NotePad\NotePad\obj\Debug\NotePad.frmdateTime.resources
+C:\Users\Onana Vicky\Desktop\WISDOM\Folders\folder_Collections\VBnetApps\WISDOM APPLICATIONS\WISDOM _APPS\NotePad\NotePad\obj\Debug\NotePad.Form1.resources
+C:\Users\Onana Vicky\Desktop\WISDOM\Folders\folder_Collections\VBnetApps\WISDOM APPLICATIONS\WISDOM _APPS\NotePad\NotePad\obj\Debug\NotePad.frmHelp.resources
+C:\Users\Onana Vicky\Desktop\WISDOM\Folders\folder_Collections\VBnetApps\WISDOM APPLICATIONS\WISDOM _APPS\NotePad\NotePad\obj\Debug\NotePad.Resources.resources
+C:\Users\Onana Vicky\Desktop\WISDOM\Folders\folder_Collections\VBnetApps\WISDOM APPLICATIONS\WISDOM _APPS\NotePad\NotePad\obj\Debug\NotePad.frmTheFont.resources
+C:\Users\Onana Vicky\Desktop\WISDOM\Folders\folder_Collections\VBnetApps\WISDOM APPLICATIONS\WISDOM _APPS\NotePad\NotePad\obj\Debug\NotePad.frmWhatNotepad.resources
+C:\Users\Onana Vicky\Desktop\WISDOM\Folders\folder_Collections\VBnetApps\WISDOM APPLICATIONS\WISDOM _APPS\NotePad\NotePad\obj\Debug\NotePad.vbproj.GenerateResource.Cache
+F:\Sem.4\VB.net Trials\NotePad\NotePad\bin\Debug\NotePad.exe.config
+F:\Sem.4\VB.net Trials\NotePad\NotePad\bin\Debug\NotePad.exe
+F:\Sem.4\VB.net Trials\NotePad\NotePad\bin\Debug\NotePad.pdb
+F:\Sem.4\VB.net Trials\NotePad\NotePad\bin\Debug\NotePad.xml
+F:\Sem.4\VB.net Trials\NotePad\NotePad\obj\Debug\NotePad.vbprojResolveAssemblyReference.cache
+F:\Sem.4\VB.net Trials\NotePad\NotePad\obj\Debug\NotePad.frmAbout.resources
+F:\Sem.4\VB.net Trials\NotePad\NotePad\obj\Debug\NotePad.frmCutCopyPaste.resources
+F:\Sem.4\VB.net Trials\NotePad\NotePad\obj\Debug\NotePad.frmdateTime.resources
+F:\Sem.4\VB.net Trials\NotePad\NotePad\obj\Debug\NotePad.Form1.resources
+F:\Sem.4\VB.net Trials\NotePad\NotePad\obj\Debug\NotePad.frmHelp.resources
+F:\Sem.4\VB.net Trials\NotePad\NotePad\obj\Debug\NotePad.Resources.resources
+F:\Sem.4\VB.net Trials\NotePad\NotePad\obj\Debug\NotePad.frmTheFont.resources
+F:\Sem.4\VB.net Trials\NotePad\NotePad\obj\Debug\NotePad.frmWhatNotepad.resources
+F:\Sem.4\VB.net Trials\NotePad\NotePad\obj\Debug\NotePad.vbproj.GenerateResource.Cache
+F:\Sem.4\VB.net Trials\NotePad\NotePad\obj\Debug\NotePad.vbproj.CoreCompileInputs.cache
+F:\Sem.4\VB.net Trials\NotePad\NotePad\obj\Debug\NotePad.exe
+F:\Sem.4\VB.net Trials\NotePad\NotePad\obj\Debug\NotePad.xml
+F:\Sem.4\VB.net Trials\NotePad\NotePad\obj\Debug\NotePad.pdb
+C:\Users\sande\OneDrive\Desktop\NotePad\NotePad\bin\Debug\NotePad.exe.config
+C:\Users\sande\OneDrive\Desktop\NotePad\NotePad\bin\Debug\NotePad.exe
+C:\Users\sande\OneDrive\Desktop\NotePad\NotePad\bin\Debug\NotePad.pdb
+C:\Users\sande\OneDrive\Desktop\NotePad\NotePad\bin\Debug\NotePad.xml
+C:\Users\sande\OneDrive\Desktop\NotePad\NotePad\obj\Debug\NotePad.vbproj.AssemblyReference.cache
+C:\Users\sande\OneDrive\Desktop\NotePad\NotePad\obj\Debug\NotePad.frmAbout.resources
+C:\Users\sande\OneDrive\Desktop\NotePad\NotePad\obj\Debug\NotePad.frmCutCopyPaste.resources
+C:\Users\sande\OneDrive\Desktop\NotePad\NotePad\obj\Debug\NotePad.frmdateTime.resources
+C:\Users\sande\OneDrive\Desktop\NotePad\NotePad\obj\Debug\NotePad.Form1.resources
+C:\Users\sande\OneDrive\Desktop\NotePad\NotePad\obj\Debug\NotePad.frmHelp.resources
+C:\Users\sande\OneDrive\Desktop\NotePad\NotePad\obj\Debug\NotePad.Resources.resources
+C:\Users\sande\OneDrive\Desktop\NotePad\NotePad\obj\Debug\NotePad.frmTheFont.resources
+C:\Users\sande\OneDrive\Desktop\NotePad\NotePad\obj\Debug\NotePad.frmWhatNotepad.resources
+C:\Users\sande\OneDrive\Desktop\NotePad\NotePad\obj\Debug\NotePad.vbproj.GenerateResource.cache
+C:\Users\sande\OneDrive\Desktop\NotePad\NotePad\obj\Debug\NotePad.vbproj.CoreCompileInputs.cache
+C:\Users\sande\OneDrive\Desktop\NotePad\NotePad\obj\Debug\NotePad.exe
+C:\Users\sande\OneDrive\Desktop\NotePad\NotePad\obj\Debug\NotePad.xml
+C:\Users\sande\OneDrive\Desktop\NotePad\NotePad\obj\Debug\NotePad.pdb
